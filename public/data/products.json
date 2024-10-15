@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 13",
+    "price": 799.99,
+    "description": "The iPhone 13 features a sleek design, A15 Bionic chip, and advanced dual-camera system.",
+    "image": "https://example.com/images/iphone13.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S21",
+    "price": 699.99,
+    "description": "The Galaxy S21 offers a stunning display, triple camera setup, and all-day battery life.",
+    "image": "https://example.com/images/galaxy-s21.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 6",
+    "price": 599.99,
+    "description": "Experience the best of Google with the Pixel 6, featuring a powerful camera and Tensor chip.",
+    "image": "https://example.com/images/pixel6.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sony WH-1000XM4",
+    "price": 349.99,
+    "description": "Industry-leading noise canceling headphones with stunning sound quality.",
+    "image": "https://example.com/images/sony-wh1000xm4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Apple Watch Series 7",
+    "price": 399.99,
+    "description": "The latest Apple Watch with a larger display, advanced health features, and more.",
+    "image": "https://example.com/images/apple-watch7.jpg"
+  }
+]
